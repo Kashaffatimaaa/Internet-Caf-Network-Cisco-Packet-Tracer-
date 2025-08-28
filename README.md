@@ -1,4 +1,4 @@
-# Internet-Caf-Network-Cisco-Packet-Tracer-
+# Internet-Cafe-Network-Cisco-Packet-Tracer-
 📌 Introduction
 
 This project involves the design and configuration of a comprehensive network infrastructure for an Internet Café using Cisco Packet Tracer. The network was built to ensure efficient communication, secure access, and resource optimization across multiple departments, including admin, customer stations, gaming zones, technical support, and servers.
